@@ -14,3 +14,9 @@ Localizar el perfil (o perfiles) de inmuebles que maximizan el potencial comerci
 <p align="center">
   <img src="./Otros/mapa.png" width="750">
 </p>
+
+<p align="center">
+  <em>Inmuebles en las alcaldías Benito Juárez y Cuajimalpa de Morelos según su precio de renta.
+🔺 Rojo = precios más altos
+🔻 Amarillo = precios más bajos</em>
+</p>
